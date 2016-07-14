@@ -16,7 +16,7 @@ class PokemonFaker
   def self.match
     index = rand(0..149)
 
-    return [@@names[index], @@pictures[index]
+    return [@@names[index], @@pictures[index]]
   end
 end
 
