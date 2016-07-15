@@ -35,12 +35,12 @@ To seed Pokemon Name and Avatar Picture:
     PokemonFaker.match
     or
     see example:
-    ```ruby
+    
     3.times do 
       p_name = PokemonFaker.match
       Pokemon.new(name: p_name[0] image: p_name[1])
     end
-    ```
+    
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
