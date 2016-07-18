@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'pokemon_faker', '~> 0.1.0'
+gem 'pokemon_faker', '~> 0.1.2'
 ```
 
 And then execute:
