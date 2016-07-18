@@ -24,11 +24,15 @@ Or install it yourself as:
 
 To seed Pokemon Name:
 
-    PokemonFaker.name
+    PokemonFaker.name #Pikachu
 
 To seed Pokemon Avatar Picture:
 
     PokemonFaker.picture
+
+To seed Pokemon Location:
+
+    PokemonFaker.location #Pallet Town"
 
 To seed Pokemon Name and Avatar Picture:
 

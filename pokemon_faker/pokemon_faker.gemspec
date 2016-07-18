@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["shinwang3@gmail.com"]
 
   spec.summary       = %q{Ruby Pokemon faker names and avatar pictures.}
-  spec.description   = %q{Users are able to seed their database with the following methods: PokemonFaker.name, PokemonFaker.picture, and PokemonFaker.match}
-  spec.homepage      = "https://github.com/shinwang1/Pokemon-Ruby-Faker-Gem/tree/master/Pokemon-faker"
+  spec.description   = %q{Users are able to seed their database with the following methods: PokemonFaker.name, PokemonFaker.picture, PokemonFaker.location and PokemonFaker.match. Please refer to my github readme to see examples.}
+  spec.homepage      = "https://github.com/shinwang1/Pokemon-Ruby-Faker-Gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
