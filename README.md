@@ -34,13 +34,13 @@ To seed Pokemon Location:
 
 To seed Pokemon Name and Avatar Picture:
 
-    PokemonFaker.match
+    PokemonFaker.match #["Seadra", "Seadra.jpg"]
     or
     see example:
     
     3.times do 
-      p_name = PokemonFaker.match
-      Pokemon.new(name: p_name[0], image: p_name[1])
+      poke_pair = PokemonFaker.match
+      Pokemon.new(name: poke_pair[0], image: poke_pair[1])
     end
 
 ## Contributing
