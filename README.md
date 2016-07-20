@@ -22,7 +22,7 @@ Or install it yourself as:
 
 To seed Pokemon Name:
 
-    PokemonFaker.name #Pikachu
+    PokemonFaker.name # "Pikachu"
 
 To seed Pokemon Avatar Picture:
 
@@ -30,11 +30,11 @@ To seed Pokemon Avatar Picture:
 
 To seed Pokemon Location:
 
-    PokemonFaker.location #Pallet Town"
+    PokemonFaker.location # "Pallet Town"
 
 To seed Pokemon Name and Avatar Picture:
 
-    PokemonFaker.match #["Seadra", "Seadra.jpg"]
+    PokemonFaker.match # ["Seadra", "Seadra.jpg"]
     or
     see example:
     
